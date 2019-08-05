@@ -9,7 +9,7 @@
 //Create a variable called myAge that is a number data type
 
 //Code here
-
+peufhpfioeuhfspf
 //////////////////PROBLEM 3////////////////////
 
 //Create a variable called lovesCode that is a boolean data type
